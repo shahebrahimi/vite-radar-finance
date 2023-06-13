@@ -158,7 +158,7 @@ cypress/videos
 # ignoring vulk releases files
 
 public/sitemap.xml
-public/robots.txt
+# public/robots.txt
 *.pdf
 *.zip
 
